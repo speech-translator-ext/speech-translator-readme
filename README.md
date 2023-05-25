@@ -4,7 +4,7 @@ This document outlines the procedures and general information for the Speech Tra
 
 * [Reporting a Bug](#reporting-a-bug)
 * [Suggesting a Feature](#suggesting-a-feature)
-* [Disclosures and Privacy Policy](https://github.com/speech-translator-ext/speech-translator-readme/blob/24c921781d85202d2c170f77290aee254eafdc1e/PRIVACY.md)
+* [Disclosures and Privacy Policy](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/PRIVACY.md)
 
 ## Reporting a Bug
 
