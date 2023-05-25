@@ -26,3 +26,5 @@ Note that “reproduction steps” should be a series of actions that a develope
 
 * Search for similar [issues](https://github.com/speech-translator-ext/speech-translator-readme/issues), it may have been discussed already.
 If a similar issue already exists, you do not need to open another one for this. If you want to help with it in any way, you can do so by providing appropriate information in the existing issue.
+
+* When writing a feature request issue, please add `[Feature Request]` in the title.
