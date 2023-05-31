@@ -60,7 +60,7 @@ We do not sell, rent, or trade your data with any other parties for their own pu
 
 ## How do we protect your data?
 
-We take reasonable measures to protect your data from unauthorized access, use, disclosure, alteration, or destruction. We encrypt the audio data using HTTPS before sending it to Google Chrome API for processing. We encrypt the transcribed text using HTTPS before sending it to Google for translation. We also limit the access to your data to our employees, contractors, and agents who need it to perform their duties for us. They are bound by confidentiality obligations and may face disciplinary action or termination if they fail to comply with them.
+We take reasonable measures to protect your data from unauthorized access, use, disclosure, alteration, or destruction. We always encrypt using HTTPS all data we transfer over the Internet. We also limit the access to your data to our employees, contractors, and agents who need it to perform their duties for us. They are bound by confidentiality obligations and may face disciplinary action or termination if they fail to comply with them.
 
 ## How long do we keep your data?
 
