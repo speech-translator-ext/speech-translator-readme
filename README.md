@@ -15,7 +15,7 @@ If a similar issue already exists, you do not need to open another one for this.
 
 When writing an issue, please provide as much detail as possible. However, you must include:
 
-* `[Documentation]` in the title if it is related to grammar.
+* `[Documentation]` in the title if it is related to the instruction or to the text of the interface
 * Your OS
 * Web browser name and version
 * The extension version
