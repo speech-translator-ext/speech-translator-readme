@@ -7,14 +7,15 @@ The following disclosures are required by the Chrome Web Store User Data Policy:
 - We use personal or sensitive user data such as audio data, websites data, display - devices data, Chrome language settings data, and metadata to provide and improve our Product’s functionality.
 - We collect some metadata to provide and improve our Product’s functionality.
 - We always encrypt using HTTPS all data we transfer over the Internet.
-- We may share audio data, transcribed text, User-generated Extension settings and some metadata with Google Chrome, Google, Cloudflare and Google Cloud for processing. You can find their privacy policies here:
+- We may share audio data, transcribed text, User-generated Extension settings and some metadata with Google Chrome, Microsoft Edge, Google, Cloudflare, Google Cloud, Naver Papago and Bing Microsoft Translator for processing. You can find their privacy policies here:
   + [Google Chrome](https://www.google.com/chrome/privacy/)
+  + [Microsoft Edge](https://privacy.microsoft.com/privacystatement)
   + [Google](https://policies.google.com/privacy)
   + [Cloudflare](https://www.cloudflare.com/privacypolicy/)
   + [Google Cloud](https://cloud.google.com/terms/cloud-privacy-notice)
 - We may share pseudonymized transcribed text with third parties translation services listed below when the corresponding service is explicitly selected. We share this data to enable the functionality of our Product, such as translation.
   + [Naver Papago](https://policy.naver.com/policy/privacy_en.html)
-  + [Bing Microsoft Translator](https://privacy.microsoft.com/en-us/privacystatement)
+  + [Bing Microsoft Translator](https://privacy.microsoft.com/privacystatement)
 
 - The use of information received from Google APIs will adhere to the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/), including the [Limited Use](https://developer.chrome.com/docs/webstore/program-policies/limited-use/) requirements.
 
@@ -28,7 +29,7 @@ This privacy policy explains how Speech Translator ("we", "us", or "our") collec
 
 We handle the following types of data when you use our Product:
 
-- **Audio data**: We use Chrome's internal functionality to capture audio from your input audio devices, such as your microphone, and transcribe it into text. We use this data to provide you with the functionality of our Product, such as translation. We do not store or process this data ourselves. You can find more information about how Chrome handles your audio data in [their privacy policy](https://www.google.com/chrome/privacy/).
+- **Audio data**: Depending on your browser, we use Google Chrome or Microsoft Edge internal features to capture audio from your input audio devices, such as your microphone, and transcribe it into text. We use this data to provide you with the functionality of our Product, such as translation. We do not store or process this data ourselves. You can find more information about how Google Chrome and Microsoft Edge handle your audio data in their respective privacy policies: [Google Chrome Privacy Policy](https://www.google.com/chrome/privacy/) and [Microsoft Edge Privacy Statement](https://privacy.microsoft.com/privacystatement).
 - **Transcribed text**: We use this data to provide you with the functionality of our Product, such as translation. We do not save this data ourselves, but we use it locally in your browser and may share it with third parties for translation.
 - **Webpage data**: We use the information on the opened webpages locally on your device. We use this data to provide you with the functionality of our Product, such as translation and extension appearance on the webpage.
 - **Display devices data**: We use your display devices information locally on your device using Chrome extension API. We use this data to provide you with the functionality of our Product, such as adjusting the extension layout according to your screen size and resolution.
@@ -49,7 +50,8 @@ We use your data for the following purposes:
 
 We share your data with the following third parties for the purposes described above:
 
-- **Google Chrome**: We send the audio to Google Chrome API for processing. You can find more information about how Google Chrome handles your data in [their privacy policy](https://www.google.com/chrome/privacy/).
+- **Google Chrome**: When you use the Chrome web browser, we send the audio to Google Chrome API for processing. You can find more information about how Google Chrome handles your data in [their privacy policy](https://www.google.com/chrome/privacy/).
+- **Microsoft Edge**: When you use the Microsoft Edge web browser, we send the audio to Microsoft Edge API for processing. You can find more information about how Microsoft Edge handles your data in [their privacy statement](https://privacy.microsoft.com/privacystatement).
 - **Google**: We send the transcribed text to Google Translate and Google Apps Script for translation when the corresponding option is explicitly selected. We encrypt requests with the transcribed text using HTTPS before sending it to Google. You can find more information about how Google handles your data in [their privacy policy](https://policies.google.com/privacy).
 - **Cloudflare**: We may send the transcribed text through Cloudflare CDN to improve the security and performance of our Product and services. We encrypt requests with the transcribed text using HTTPS before sending them and from Cloudflare to the final destination. You can find more information about how Cloudflare handles your data in [their privacy policy](https://www.cloudflare.com/privacypolicy/).
 - **Google Cloud**: We may process the transcribed text on Google Cloud. We do it to provide you with the functionality of our Product, such as translation. We encrypt requests with the transcribed text using HTTPS before sending them to Google Cloud. You can find more information about how Google Cloud handles your data in [their privacy policy](https://cloud.google.com/terms/cloud-privacy-notice).
