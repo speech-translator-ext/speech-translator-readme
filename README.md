@@ -2,10 +2,15 @@
 
 This document outlines the procedures and general information for the Speech Translator project.
 
+* [Troubleshooting](#troubleshooting)
 * [Reporting a Bug](#reporting-a-bug)
 * [Suggesting a Feature](#suggesting-a-feature)
 * [Changelog](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/CHANGELOG.md)
 * [Disclosures and Privacy Policy](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/PRIVACY.md)
+
+## Troubleshooting
+
+If you experience any issues with setting up the extension, please read the [troubleshooting page](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/TROUBLESHOOTING.md).
 
 ## Reporting a Bug
 
