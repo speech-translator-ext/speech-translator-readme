@@ -30,7 +30,7 @@ This privacy policy explains how Speech Translator ("we", "us", or "our") collec
 We handle the following types of data when you use our Product:
 
 - **Audio data**: Depending on your browser, we use Google Chrome or Microsoft Edge internal features to capture audio from your input audio devices, such as your microphone, and transcribe it into text. We use this data to provide you with the functionality of our Product, such as translation. We do not store or process this data ourselves. You can find more information about how Google Chrome and Microsoft Edge handle your audio data in their respective privacy policies: [Google Chrome Privacy Policy](https://www.google.com/chrome/privacy/) and [Microsoft Edge Privacy Statement](https://privacy.microsoft.com/privacystatement).
-- **Transcribed text**: We use this data to provide you with the functionality of our Product, such as translation. We do not save this data ourselves, but we use it locally in your browser and may share it with third parties for translation.
+- **Transcribed text**: We use this data to provide you with the functionality of our Product, such as translation. We do not save this data ourselves, but we use it locally in your browser and may transmit it to the Internet for providing product functionality, but only after getting your consent. We may also share the transcribed and translated text with third parties for translation purposes.
 - **Webpage data**: We use the information on the opened webpages locally on your device. We use this data to provide you with the functionality of our Product, such as translation and extension appearance on the webpage.
 - **Display devices data**: We use your display devices information locally on your device using Chrome extension API. We use this data to provide you with the functionality of our Product, such as adjusting the extension layout according to your screen size and resolution.
 - **Language settings data**: We use your Chrome language related information locally on your device using Chrome extension API. We use this data to provide you with the functionality of our Product, such as translating the text into your preferred language.
@@ -41,7 +41,7 @@ We handle the following types of data when you use our Product:
 
 We use your data for the following purposes:
 
-- To provide you with the functionality of our Product, such as transcribing, language detection, changing the extension appearance on the webpage, adjusting the extension layout according to your screen size and resolution, and translating the text into your preferred language.
+- To provide you with the functionality of our Product, such as transcribing, language detection, changing the extension appearance on the webpage, adjusting the extension layout according to your screen size and resolution, translating the text into your preferred language and displaying the transcribed and translated text remotely.
 - To improve our Product and services, such as by fixing bugs, enhancing features, and developing new products.
 - To communicate with you, such as by sending you updates, notifications, or feedback requests.
 - To comply with legal obligations, such as by responding to lawful requests from authorities.
