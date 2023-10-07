@@ -3,7 +3,8 @@
 1. Try to follow the audio setup guide one more time with extra attention and make sure your settings are correct.
 2. Make sure your audio source is set up correctly and verify the audio level bars change in your system audio settings.
 3. Click **Grant Audio Permission** one more time and make sure the correct audio input device is selected.
-4. Make sure you have access to speech recognition services.
+4. Make sure you have the correct **Speech Language** selected.
+5. Make sure you have access to speech recognition services.
    
    - For **Google Chrome**: https://www.google.com/intl/en/chrome/demos/speech.html
    - For **Microsoft Edge**: https://speech.microsoft.com/portal/speechtotexttool
