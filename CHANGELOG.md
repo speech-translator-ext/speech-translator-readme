@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.1
+
+- Add disclaimer for Android instruction
+
 ## v0.1.0
 
 - Add Streaming Mode, that shows the translation to viewers in a widget
