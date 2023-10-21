@@ -40,6 +40,8 @@ Currently, the project does not have any funding, so even a small tip or a paid 
 
 If you can't make a donation, you can still contribute by sharing the extension with your friends and community and by [giving feedback on the store](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn/reviews).
 
+### [Backers List](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/BACKERS.md)
+
 ## Reporting a Bug
 
 * Search for similar [issues](https://github.com/speech-translator-ext/speech-translator-readme/issues), it may have been answered already.
