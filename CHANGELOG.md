@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.2.0
+
+- Add the Text Outline option that changes the text appearance
+- Add the Center Text option that positions the text in the center
+- Add the Hide the divider lines option that removes the lines between translations
+- Add preset text colors for the Overlay Mode
+- Add a detached preview window for the appearance setup
+- Add the Hide the interim text option that displays only the final text
+- Add the Auto Hide on inactivity option for the widget for the Streaming Mode
+- Add an option to customize the max number of letters per translation when Streaming Mode is turned on
+- Update the Appearance, Configuration and Streaming Setup instructions
+- Add instructions on how to adjust the translation chunk size and how to translate to multiple languages
+- Add a new release note appearance logic that works when the store has a new minor release
+- Make minor UI and UX improvements
+
 ## v0.1.1
 
 - Add disclaimer for Android instruction
