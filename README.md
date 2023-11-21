@@ -26,8 +26,11 @@ You can use it for:
 - 👂 Enhancing accessibility for people with hearing impairments
 The extension can be used on Android with Kiwi Browser.
 
-**Download and Install:**   
-[Chrome Web Store](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
+---
+
+#### Download and Install:  
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn)
+- [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/speech-translator/jmiekopdidkclpmpandbfblpefalpldo)
 
 ## Troubleshooting
 
@@ -38,7 +41,7 @@ If you experience any issues with setting up the extension, please read the [tro
 Currently, the project does not have any funding, so even a small tip or a paid subscription can make a big difference. As a subscriber, you will enjoy various perks, such as extra translation services and personal tech support. Your generosity will help me cover the costs of development and maintenance, and motivate me to keep improving the extension.  
 [Here you can donate or subscribe](https://boosty.to/speech-translator-ext)
 
-If you can't make a donation, you can still contribute by sharing the extension with your friends and community and by [giving feedback on the store](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn/reviews).
+If you can't make a donation, you can still contribute by sharing the extension with your friends and community and by [giving feedback on the Chrome Web Store](https://chrome.google.com/webstore/detail/speech-translator/jodfjmaiakpnmeddgpeflpafebmlhppn/reviews) and [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/speech-translator/jmiekopdidkclpmpandbfblpefalpldo).
 
 ### [Backers List](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/BACKERS.md)
 
