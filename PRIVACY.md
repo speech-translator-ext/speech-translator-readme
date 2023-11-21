@@ -1,4 +1,4 @@
-# Privacy Policy for Speech Translator Chrome Extension
+# Privacy Policy for Speech Translator Extension
 
 ## Disclosures
 
