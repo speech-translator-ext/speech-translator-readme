@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.1
+
+- Adapt to Edge Add-ons Store publication
+- Add basic support for languages: Filipino, Italian, Swahili, Thai, Vietnamese, Chinese (Taiwan)
+
 ## v0.2.0
 
 - Add the Text Outline option that changes the text appearance
