@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.2
+
+- Fix issue where right-to-left languages were not aligned to the center
+- Add translation services access check to the instruction
+- Temporarily fixed the error message on starting to listen on domains belonging to Meta
+
 ## v0.2.1
 
 - Adapt to Edge Add-ons Store publication
