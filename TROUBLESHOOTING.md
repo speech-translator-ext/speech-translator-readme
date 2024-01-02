@@ -1,6 +1,12 @@
 # Troubleshooting
 
-*Known issue: if you want to use the extension on the websites that belong to Meta (facebook.com, instagram.com, whatsapp.com, etc.), please start the translation in a popup window or in a side panel (buttons on the left side from **START LISTENING**).*
+***Known issues:*** 
+- If you want to use the extension on the websites that belong to Meta (facebook.com, instagram.com, whatsapp.com, etc.), please start the translation in a popup window or in a side panel (buttons on the left side from **START LISTENING**).
+- Speech recognition sometimes works poorly in Google Chrome with certain languages (like Japanese). If you experience a such issue, please try to use the extension in [Microsoft Edge](https://www.microsoft.com/edge).
+
+---
+
+**Troubleshooting**
 
 1. Make sure you are using [Google Chrome](https://www.google.com/chrome/) or [Microsoft Edge](https://www.microsoft.com/edge) web browser with version 114+.
 2. Try to follow the audio setup guide one more time with extra attention and make sure your settings are correct.
