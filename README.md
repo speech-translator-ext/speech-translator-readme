@@ -47,6 +47,8 @@ If you can't make a donation, you can still contribute by sharing the extension 
 
 ## Reporting a Bug
 
+* Please make sure you have read the [troubleshooting instruction](https://github.com/speech-translator-ext/speech-translator-readme/blob/main/TROUBLESHOOTING.md).
+
 * Search for similar [issues](https://github.com/speech-translator-ext/speech-translator-readme/issues), it may have been answered already.
 If a similar issue already exists, you do not need to open another one for this. If you want to help with it in any way, you can do so by providing appropriate information in the existing issue.
 
