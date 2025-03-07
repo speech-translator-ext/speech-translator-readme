@@ -5,7 +5,7 @@
 - If you want to use the extension on the websites that belong to Meta (facebook.com, instagram.com, whatsapp.com, etc.) and tiktok.com, please start the translation in a popup window or in a side panel (buttons on the left side from **START LISTENING**).
 - Speech recognition sometimes works poorly in Google Chrome with certain languages (like Japanese). If you experience a such issue, please try to use the extension in [Microsoft Edge](https://www.microsoft.com/edge).
 - The extension may not work in the Edge Browser on some versions of Linux and macOS. Sometimes using [the Beta or Dev version of the Edge Browser](https://www.microsoft.com/en-us/edge/download/insider?form=MA13FJ) helps to make it work.
-- It [has been reported](https://github.com/speech-translator-ext/speech-translator-readme/issues/50) that speech recognition engine (Web Speech API) may not work in Edge starting with version 134 on Windows. If you experience the same issue or if it works on your system, please provide feedback in [here](https://github.com/speech-translator-ext/speech-translator-readme/issues/50).
+- It [has been reported](https://github.com/speech-translator-ext/speech-translator-readme/issues/50) that speech recognition engine (Web Speech API) may not work in Edge starting with version 134 on Windows. If you experience the same issue or if it works on your system, please provide feedback [here](https://github.com/speech-translator-ext/speech-translator-readme/issues/50).
 ---
 
 **Troubleshooting**
