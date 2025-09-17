@@ -13,3 +13,4 @@
 - _ Shino
 - Magnus Wester
 - johnnyredbird
+- Dietmar Schrimpf
