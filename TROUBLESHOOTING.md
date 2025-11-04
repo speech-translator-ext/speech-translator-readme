@@ -4,7 +4,7 @@
 
 - If you want to use the extension on the websites that belong to Meta (facebook.com, instagram.com, whatsapp.com, etc.) and tiktok.com, please start the translation in a popup window or in a side panel (buttons on the left side from **START LISTENING**).
 - Speech recognition sometimes works poorly in Google Chrome with certain languages (like Japanese). If you experience a such issue, please try to use the extension in [Microsoft Edge](https://www.microsoft.com/edge).
-- The extension may not work in the Edge Browser on some versions of Linux and macOS. Sometimes using [the Beta or Dev version of the Edge Browser](https://www.microsoft.com/en-us/edge/download/insider?form=MA13FJ) helps to make it work.
+- The extension might not work in Microsoft Edge on devices with ARM processors (like newer MacBooks with Apple silicon or Microsoft Surface tablets). Sometimes using [the Beta or Dev version of the Edge Browser](https://www.microsoft.com/en-us/edge/download/insider?form=MA13FJ) helps to make it work.
 ---
 
 **Troubleshooting**
@@ -14,10 +14,7 @@
 3. Make sure your audio source is set up correctly and verify the audio level bars change in your system audio settings.
 4. Click **Grant Audio Permission** one more time and make sure the correct audio input device is selected. Alternatively, you can set the input audio device on this page: `chrome://settings/content/microphone`
 5. Make sure you have the correct **Speech Language** selected.
-6. Make sure you have access to speech recognition services.
-   
-   - For **Google Chrome**: https://www.google.com/intl/en/chrome/demos/speech.html
-   - For **Microsoft Edge**: https://speech.microsoft.com/portal/speechtotexttool
+6. Make sure you have access to speech recognition service. Test it with Chrome or Edge here: [Speech Recognition Demo](https://www.google.com/intl/en/chrome/demos/speech.html)
 
 Choose your speech language on the page and choose the audio source by clicking the microphone icon on the right side of the address bar. If recognized text is not displaying, it may be caused by network restrictions. You can try to disable VPN or use a private VPN that has access to Google and Microsoft services and try again. Also, you can try to use a different supported web browser, usually it helps.
 
