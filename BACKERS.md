@@ -14,3 +14,4 @@
 - Magnus Wester
 - johnnyredbird
 - Dietmar Schrimpf
+- chocostrawberry
