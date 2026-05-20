@@ -2,6 +2,8 @@
 
 **Known issues**
 
+- **Speech recognition engine (Web Speech API) may not work in the Edge Browser temporarily while Microsoft is fixing the issue. You can find more information about status and provide some feedback [here](https://techcommunity.microsoft.com/discussions/edgeinsiderdiscussions/web-speech-api-not-working-in-edge-v-147/4514880).**
+
 - For **Windows** users: To select the correct audio source in **Chrome**, set your capture device to **"Default Communication Device"** in the system recording settings and on the `chrome://settings/content/microphone` page too, just in case. In **Microsoft Edge**, ensure the correct device is selected on the `edge://settings/content/microphone` page.
 - If you want to use the extension on the websites that belong to Meta (facebook.com, instagram.com, whatsapp.com, etc.) and tiktok.com, please start the translation in a popup window or in a side panel (buttons on the left side from **START LISTENING**).
 - Speech recognition sometimes works poorly in Google Chrome with certain languages (like Japanese). If you experience a such issue, please try to use the extension in [Microsoft Edge](https://www.microsoft.com/edge).
