@@ -1,4 +1,4 @@
-# Speech Translator Readme
+# Speech Translator Readme #
 
 This document outlines the procedures and general information for the **Speech Translator** project.
 
