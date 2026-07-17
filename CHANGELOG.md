@@ -1,5 +1,35 @@
 # Changelog
 
+## v1.0.0
+
+- Add unified support for multiple payment providers (Patreon, Boosty, and Stripe)
+- Add Audio Source Selection with options for Current Tab, Desktop Audio Capture, and Input Audio Device
+- Add an "Override default audio input" option to select a specific recording device
+- Add AI Voice Isolation feature
+- Add Offline Speech Recognition (Chrome only)
+- Add Compact View Mode for subtitle-style text display with dynamically calculated display timing
+- Add Translation Read Aloud feature
+- Add Second Language Translation to display two translations simultaneously using independent translation services
+- Add new translation engines: Yandex, DeepL, Bing (also as interim), VolcTrans, Youdao, and Sogou
+- Update the Release Notes UI to an interactive, slide-based layout
+- Update all packages to their latest versions
+- Update Google Translate (Script) to use POST method requests
+- Add profile, login, and reset password pages
+- Add version migration logic for the extension
+- Refactor all storage settings to use the "local" storage type
+- Add premium status check functionality
+- Add a "Test Speech Recognition Engine" tool to the Instructions
+- Unify error handling during audio capture (e.g., missing microphone permissions)
+- Secure audio capture inside iframes
+- Add promotional message displays for Streaming Mode
+- Implement a smart queue for translation requests with auto-aborting based on delay drift
+- Add an alert window regarding browser support
+- Update the Instructions to reflect newly added features
+- Split Options tabs, Popup Menu tabs, and Instructions into individual Vue components
+- Make various UI fixes and improvements
+- Fix links routing on Options page (opening and scrolling)
+- Localize Popup Menu UI
+
 ## v0.2.2
 
 - Fix issue where right-to-left languages were not aligned to the center
