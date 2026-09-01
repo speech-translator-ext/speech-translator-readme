@@ -2,7 +2,7 @@
 
 **Known Issues**
 
-- Go to `chrome://extensions` and make sure you are using the latest version of the **Speech Translator** extension: `1.0.0`. If you have an older version (and used Chrome Web Store), enable **Developer Mode** in the top right corner and click the **Update** button that appears. Afterward, you can turn off **Developer Mode**.
+- The Bing translation service is currently not working due to recent API changes on their side. We are actively working on a fix, which will be available in the next extension update soon. In the meantime, please use Google or another translation service in the settings.
 - **If you are using Chrome and the speech recognition suddenly stopped working**, and you see a "Network Error" when you open the Console Log, try to fully restart your browser (close all windows, including incognito, and open it again). If it starts working again, it means you are experiencing a bug that Google hasn't fully fixed yet. The workaround is to:
    - Update to the latest version of Chrome
    - Go to **Settings** -> **Accessibility**
