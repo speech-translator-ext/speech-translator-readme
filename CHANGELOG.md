@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.2
+
+- Add Bing AI translation service
+- Add diagnostic information export tool for support requests
+- Fix Bing translation service by migrating to the updated API
+- Fix transparency background issue on Twitch when Dark Mode is enabled
+- Update all packages to their latest versions
+
 ## v1.0.0
 
 - Add unified support for multiple payment providers (Patreon, Boosty, and Stripe)
