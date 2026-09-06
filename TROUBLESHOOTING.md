@@ -2,7 +2,6 @@
 
 **Known Issues**
 
-- The Bing translation service is currently not working due to recent API changes on their side. We are actively working on a fix, which will be available in the next extension update soon. In the meantime, please use Google or another translation service in the settings.
 - **If you are using Chrome and the speech recognition suddenly stopped working**, and you see a "Network Error" when you open the Console Log, try to fully restart your browser (close all windows, including incognito, and open it again). If it starts working again, it means you are experiencing a bug that Google hasn't fully fixed yet. The workaround is to:
    - Update to the latest version of Chrome
    - Go to **Settings** -> **Accessibility**
@@ -10,7 +9,7 @@
    - Delete all language models and then disable **Live Captions**
    - Restart Chrome
 - The extension might not work in Microsoft Edge on devices with ARM processors (like newer MacBooks with Apple silicon or Microsoft Surface tablets). Sometimes, using [the Beta or Dev version of the Edge Browser](https://www.microsoft.com/en-us/edge/download/insider?form=MA13FJ) helps resolve this.
-- If the speech recognition performs poorly or is unstable with a certain language, try switching your browser and using the extension in [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/).
+- If the speech recognition performs poorly or is unstable with a certain language, try switching your browser and using the extension in [Microsoft Edge](https://www.microsoft.com/edge) or [Google Chrome](https://www.google.com/chrome/). Edge often works better for Asian languages and supports more specific dialects (like Taiwanese and Southwestern Mandarin).
 - If you want to use the extension on Meta websites (facebook.com, instagram.com, whatsapp.com, etc.) and tiktok.com, please start the translation in a popup window or in the side panel (using the buttons to the left of **START**).
 
 ---
@@ -35,8 +34,8 @@
 8. If you still experience issues with the extension, feel free to [create an issue](https://github.com/speech-translator-ext/speech-translator-readme/issues). Please include:
    - Your OS
    - Web browser name and version
-   - The extension version
-   - Your audio setup method
+   - The extension version *(can find here: `chrome://extensions/`)*
+   - Your audio setup method *(e.g. Setup 1: Current Tab Capture)*
    - Selected **Speech Language**, **Translation Service**, and **Translate To Language**
    - Listening method: **iFrame**, **Popup**, or **Side Panel**. For the **iFrame** method, please specify the website where you started listening
    - A description of the issue
