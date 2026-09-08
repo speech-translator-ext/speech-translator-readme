@@ -2,7 +2,8 @@
 
 **Known Issues**
 
-- **The standard Google Translate service is currently experiencing connection issues due to recent API changes on Google's end.** If your speech is being captured but not translated, please switch your translation service in the settings to **Google Translate (Script)** as a temporary workaround. You can find the setup instructions: `chrome-extension://jodfjmaiakpnmeddgpeflpafebmlhppn/options.html#instruction#google-translate-script`
+- **The standard Google Translate service is currently experiencing connection issues due to recent API changes on Google's end.** If your speech is being captured but not translated, please switch your translation service in the settings to **Google Translate (Script)** as a temporary workaround. You can find the setup instructions here:
+   - `chrome-extension://jodfjmaiakpnmeddgpeflpafebmlhppn/options.html#instruction#google-translate-script`
 - **If you are using Chrome and the speech recognition suddenly stopped working**, and you see a "Network Error" when you open the Console Log, try to fully restart your browser (close all windows, including incognito, and open it again). If it starts working again, it means you are experiencing a bug that Google hasn't fully fixed yet. The workaround is to:
    - Update to the latest version of Chrome
    - Go to **Settings** -> **Accessibility**
