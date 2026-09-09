@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.3
+
+- Update the default endpoint for Google Translate (Public) to a more stable one
+
 ## v1.0.2
 
 - Add Bing AI translation service
