@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.1.0
+
+- Add Profanity Filter with custom blocked and allowed word lists
+- Add "Detect language from transcript" option to dynamically identify the source language for translations
+- Add support for Input Audio Device (Microphone) in the Read Aloud feature
+- Add Enterprise & Education plan to the pricing page
+- Add "Translate from multiple languages at the same time" instruction guide
+- Update Google Translate (Script) code snippet (on the instruction page)
+- Update all packages to their latest versions
+
 ## v1.0.3
 
 - Update the default endpoint for Google Translate (Public) to a more stable one
