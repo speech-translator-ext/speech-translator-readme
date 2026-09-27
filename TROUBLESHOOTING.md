@@ -24,11 +24,12 @@
 4. Make sure you have successfully passed the following tests: **Test Speech Recognition Engine** and **Check Translation Services Access**:
    - `chrome-extension://jodfjmaiakpnmeddgpeflpafebmlhppn/options.html#instruction#check-web-speech-api-support`
    - `edge://jmiekopdidkclpmpandbfblpefalpldo/options.html#instruction#check-web-speech-api-support`
+
    If you didn't pass **Test Speech Recognition Engine** try again first. If it still fails, turn off your VPN or use a private VPN that has access to Google and Microsoft services, and try again. Using a different supported web browser also usually helps. If that does not resolve it, there is most likely a problem on Google's or Microsoft's end, and the issue should be reported to them directly: [Microsoft Edge Insider](https://techcommunity.microsoft.com/discussions/edgeinsiderdiscussions/web-speech-api-not-working-in-edge-v-147/4514880), [Report Chrome Issue](https://support.google.com/chrome/answer/95315), and [Chromium Bug Tracker](https://issues.chromium.org/issues).
 
    If you didn't pass **Check Translation Services Access**, try disabling your VPN or using a private VPN that has access to Google. If it doesn't work, consider setting up and using the **Google Translate (Script)** method. You can find the instructions on the extension page:
-     - `chrome-extension://jodfjmaiakpnmeddgpeflpafebmlhppn/options.html#instruction#google-translate-script`
-     - `edge://jmiekopdidkclpmpandbfblpefalpldo/options.html#instruction#google-translate-script`
+   - `chrome-extension://jodfjmaiakpnmeddgpeflpafebmlhppn/options.html#instruction#google-translate-script`
+   - `edge://jmiekopdidkclpmpandbfblpefalpldo/options.html#instruction#google-translate-script`
 5. **When input is set to "Input Audio Device (Microphone)":** Make sure the correct audio input device is selected. If you are on Windows, set your capture device to **"Default Communication Device"** in the system recording settings and on the `chrome://settings/content/microphone` page. Additionally, please verify that the audio level bars move in your system audio settings when you speak (or play a looped audio).
 6. Make sure you have the correct **Speech Language** selected.
 7. If the speech is correctly recognized, but the translation doesn't work (and you use **Google Translate (Public)**), try running the **Check Translation Services Access** test on the Instructions page again right after you experience the issue:
