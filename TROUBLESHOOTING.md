@@ -2,10 +2,6 @@
 
 **Known Issues**
 
----
-### Our website is temporarily offline due to an issue with our domain registrar. We are actively working to restore service and expect to be back online soon. Thanks for bearing with us!
----
-
 - **If you are using Chrome and the speech recognition suddenly stopped working**, and you see a "Network Error" when you open the Console Log, try to fully restart your browser (close all windows, including incognito, and open it again). If it starts working again, it means you are experiencing a bug that Google hasn't fully fixed yet. The workaround is to:
    - Update to the latest version of Chrome
    - Go to **Settings** -> **Accessibility**
